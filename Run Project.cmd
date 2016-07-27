@@ -1,0 +1,1 @@
+java -jar "dist/ST_LAB.jar"

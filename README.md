@@ -1,7 +1,7 @@
 *********** SOFTWARE TESTING PROJECT SOFTWARE ENGG. *********
 
 SYNOPSIS:
-	This is a Java based project that implements few Functional and Structural Software Testing methologies.
+	This is a Java based project that implements few Functional and Structural Software Testing methodologies.
 	It takes c++ source files as inputs and generates corresponding test cases for the input program.
 
 SYSTEM REQUIREMENTS:
